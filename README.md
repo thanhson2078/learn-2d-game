@@ -12,17 +12,16 @@ learn to make 2d game from flappy bird game
 1. Tải xuống `Git, Tortoise Git` dưới bản cập nhật mới nhất và cài đặt theo mặc định của nhà phát triển đề xuất ( không cần thiết phải tùy chỉnh lại ) 
 2. Tải xuống `Unity` ( có thể tùy chỉnh gói nhưng sẽ tốn phí, cá nhân tôi dùng personal vì tôi nghèo ) và cài như tương tự
 3. Cài đặt bổ sung cho Unity
-   ```
    1. Unity Editor ( theo mặc định )
    2. Unity Archive ( theo mặc định )
-   3. Modules [ Dev Tools : Microsoft Visual Studio Community ] tích hợp trong Unity Archive
-   4. Sau khi cài xong thì Microsoft Visual Studio Community sẽ mở ra 1 cửa sổ, hãy kéo xuống phần Gaming và chọn " Game Development with Unity " (trong phần optional hãy bỏ tick chọn Unity Hub vì đã cài rồi) tiếp tục cài đặt
-   ```
->> Sau khi cài đặt xong Visual Studio nó sẽ hiện ra phần sign up không cần thiết phải đăng ký cứ bỏ qua và tắt nó đi
+   3. Modules [Dev Tools : Microsoft Visual Studio Community] tích hợp trong Unity Archive
+   4. Sau khi cài xong thì Microsoft Visual Studio Community sẽ mở ra 1 cửa sổ, hãy kéo xuống phần Gaming và chọn "Game Development with Unity"
+(trong phần optional hãy bỏ tick chọn Unity Hub vì đã cài rồi) tiếp tục cài đặt
+> Sau khi cài đặt xong Visual Studio nó sẽ hiện ra phần sign up không cần thiết phải đăng ký cứ bỏ qua và tắt nó đi
 
 4. Lúc này khi đã cài `Git, Tortoise Git` chúng ta sẽ dùng nó để tạo thư mục ở dưới máy và dẫn dự án ở trên `github` về bằng cách :
    1. Tạo 1 folder tại đường dẫn mà chúng ta muốn lưu dự án và đảm bảo ở bên trong folder đó phải trống
-   2. Rồi chúng ta lên lại trên Repository của dự án Github mà ta muốn sử dụng, đứng tại mục code , bấm vào nút Code màu xanh lá rồi ta copy Url to clipboard trong mục local bằng phương thức https
+   2. Rồi chúng ta lên lại trên Repository của dự án Github mà ta muốn sử dụng, đứng tại mục code, bấm vào nút Code màu xanh lá rồi ta copy Url to clipboard trong mục local bằng phương thức https
 
 ![](https://scontent.fsgn5-8.fna.fbcdn.net/v/t1.15752-9/440880502_463939726100899_4899839131298972889_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGu4YjF_TmilydQ8ohVyioBvnzkETl0912-fOQROXT3Xeb2GFAx4TYCCqrzwPqYmBtV0mR5Ltob3uo16ilNt1Sb&_nc_ohc=tCoyMyY5iZEQ7kNvgEDl3xK&_nc_ht=scontent.fsgn5-8.fna&oh=03_Q7cD1QGPXEyG8EIjhSkLpenRbrt0ypxj7EBlkGI9ReAKZH2AlA&oe=666BEF60)
   
