@@ -1,7 +1,7 @@
 # learn-2d-game
 learn to make 2d game from flappy bird game
 
-(https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.15752-9/441443157_3614999768738770_2823607306850250601_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFVtDvDuOGHqtXL9PweW6YidOKMQ6ucIAx04oxDq5wgDB8CLCFmeo1NJvu9KXTqktQQDY88uOIoywRfR3X54QU0&_nc_ohc=glnn5Mp79i8Q7kNvgGSPOjb&_nc_ht=scontent.fsgn5-14.fna&oh=03_Q7cD1QG12FE8okybwMxyYavJ5KV8vgqQh1T9x7hulksVkBXNsA&oe=666BF027)
+![](https://scontent.fsgn5-14.fna.fbcdn.net/v/t1.15752-9/441443157_3614999768738770_2823607306850250601_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFVtDvDuOGHqtXL9PweW6YidOKMQ6ucIAx04oxDq5wgDB8CLCFmeo1NJvu9KXTqktQQDY88uOIoywRfR3X54QU0&_nc_ohc=glnn5Mp79i8Q7kNvgGSPOjb&_nc_ht=scontent.fsgn5-14.fna&oh=03_Q7cD1QG12FE8okybwMxyYavJ5KV8vgqQh1T9x7hulksVkBXNsA&oe=666BF027)
 
 Những phần mềm cần có để thiết lập tải xuống dự án này để dùng cho mục đích tham khảo hay cho các cộng tác viên
 Git : https://git-scm.com/downloads
