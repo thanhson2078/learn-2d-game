@@ -5,8 +5,8 @@ learn to make 2d game from flappy bird game
 
 **Những phần mềm để thiết lập tải xuống dự án game này dùng cho mục đích tham khảo hay cho các cộng tác viên**
 
-| [Git](https://git-scm.com/downloads) | [Tortoise Git](https://tortoisegit.org/download/) | [Unity](https://unity.com/download)
-| ------------- |:-------------:|
+[Git](https://git-scm.com/downloads) | [Tortoise Git](https://tortoisegit.org/download/) | [Unity](https://unity.com/download)
+--- | --- | ---
 
 
 
