@@ -13,10 +13,10 @@ learn to make 2d game from flappy bird game
 ( không cần thiết phải tùy chỉnh lại ) 
 2. Tải xuống `Unity` ( có thể tùy chỉnh gói nhưng sẽ tốn phí, cá nhân tôi dùng personal vì tôi nghèo ) và cài như tương tự
 * Bổ sung cài thêm trong Unity cần phải có *
-1. Unity Editor ( theo mặc định )
-2. Unity Archive ( theo mặc định )
-3. Modules [ Dev Tools : Microsoft Visual Studio Community ] tích hợp trong Unity Archive
-4. Sau khi cài xong thì Microsoft Visual Studio Community sẽ mở ra 1 cửa sổ, hãy kéo xuống phần Gaming và chọn " Game Development with Unity " (optional bỏ tick chọn Unity Hub vì đã cài rồi) tiếp tục cài đặt 
+   1. Unity Editor ( theo mặc định )
+   2. Unity Archive ( theo mặc định )
+   3. Modules [ Dev Tools : Microsoft Visual Studio Community ] tích hợp trong Unity Archive
+   4. Sau khi cài xong thì Microsoft Visual Studio Community sẽ mở ra 1 cửa sổ, hãy kéo xuống phần Gaming và chọn " Game Development with Unity " (optional bỏ tick chọn Unity Hub vì đã cài rồi) tiếp tục cài đặt 
 **_Sau khi cài đặt xong không cần thiết phải đăng ký cứ bỏ qua và tắt nó đi_**
 3. Lúc này khi đã cài Git, Tortoise Git chúng ta sẽ dùng nó để tạo thư mục ở dưới máy và dẫn dự án ở trên github về bằng cách :
 + Tạo 1 folder ở đường dẫn chúng ta muốn lưu và đảm bảo folder phải trống
