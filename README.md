@@ -23,7 +23,8 @@ learn to make 2d game from flappy bird game
 
 4. Lúc này khi đã cài `Git, Tortoise Git` chúng ta sẽ dùng nó để tạo thư mục ở dưới máy và dẫn dự án ở trên `github` về bằng cách :
    1. Tạo 1 folder tại đường dẫn mà chúng ta muốn lưu dự án và đảm bảo ở bên trong folder đó phải trống
-   2. Rồi chúng ta lên lại trên Repository của dự án Github mà ta muốn sử dụng, đứng tại mục code, bấm vào nút Code màu xanh lá rồi ta copy Url to clipboard trong mục local bằng phương thức https
+![](https://scontent.fsgn5-8.fna.fbcdn.net/v/t1.15752-9/440880502_463939726100899_4899839131298972889_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGu4YjF_TmilydQ8ohVyioBvnzkETl0912-fOQROXT3Xeb2GFAx4TYCCqrzwPqYmBtV0mR5Ltob3uo16ilNt1Sb&_nc_ohc=tCoyMyY5iZEQ7kNvgEDl3xK&_nc_ht=scontent.fsgn5-8.fna&oh=03_Q7cD1QGPXEyG8EIjhSkLpenRbrt0ypxj7EBlkGI9ReAKZH2AlA&oe=666BEF60)
+   3. Rồi chúng ta lên lại trên Repository của dự án Github mà ta muốn sử dụng, đứng tại mục code, bấm vào nút Code màu xanh lá rồi ta copy Url to clipboard trong mục local bằng phương thức https
 
 ![](https://scontent.fsgn5-8.fna.fbcdn.net/v/t1.15752-9/440880502_463939726100899_4899839131298972889_n.png?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGu4YjF_TmilydQ8ohVyioBvnzkETl0912-fOQROXT3Xeb2GFAx4TYCCqrzwPqYmBtV0mR5Ltob3uo16ilNt1Sb&_nc_ohc=tCoyMyY5iZEQ7kNvgEDl3xK&_nc_ht=scontent.fsgn5-8.fna&oh=03_Q7cD1QGPXEyG8EIjhSkLpenRbrt0ypxj7EBlkGI9ReAKZH2AlA&oe=666BEF60)
    3. Về lại folder của chúng ta hãy click chuột phải vào vùng trống của folder (chọn Git Clone để mở ra 1 cửa sổ), hãy copy url trên github đó vào phần URL và hãy chắc chắn phần directory đứng đúng thư mục mà bạn muốn lưu và chọn OK
