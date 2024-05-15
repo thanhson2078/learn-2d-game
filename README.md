@@ -9,10 +9,9 @@ learn to make 2d game from flappy bird game
 * Unity : https://unity.com/download
 
 **Hướng dẫn cài đặt :**
-1. Tải xuống `Git, Tortoise Git` dưới bản cập nhật mới nhất và cài đặt dưới dạng mặc định của nhà phát triển đề xuất 
-( không cần thiết phải tùy chỉnh lại ) 
+1. Tải xuống `Git, Tortoise Git` dưới bản cập nhật mới nhất và cài đặt theo mặc định của nhà phát triển đề xuất ( không cần thiết phải tùy chỉnh lại ) 
 2. Tải xuống `Unity` ( có thể tùy chỉnh gói nhưng sẽ tốn phí, cá nhân tôi dùng personal vì tôi nghèo ) và cài như tương tự
-* Bổ sung cài thêm trong Unity cần phải có *
+ `Bổ sung cài thêm trong Unity cần phải có`
    1. Unity Editor ( theo mặc định )
    2. Unity Archive ( theo mặc định )
    3. Modules [ Dev Tools : Microsoft Visual Studio Community ] tích hợp trong Unity Archive
