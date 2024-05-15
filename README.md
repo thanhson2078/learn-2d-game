@@ -20,6 +20,6 @@ Hướng dẫn cài đặt :
 _ Sau khi cài đặt xong không cần thiết phải đăng ký cứ bỏ qua và tắt nó đi _
 3. Lúc này khi đã cài Git, Tortoise Git chúng ta sẽ dùng nó để tạo thư mục ở dưới máy và dẫn dự án ở trên github về bằng cách :
 + Tạo 1 folder ở đường dẫn chúng ta muốn lưu và đảm bảo folder phải trống
-+ Tại nút Code màu xanh lá (*nằm ở bên phải nút Add file) ta copy Url to clipboard trong mục local bằng phương thức https
++ Rồi chúng ta lên lại trên Repository của dự án Github mà ta muốn sử dụng, đứng tại mục code , ở tại nút Code màu xanh lá (*nằm ở bên phải nút Add file) ta copy Url to clipboard trong mục local bằng phương thức https
 + Về lại folder của chúng ta hãy click chuột phải vào vùng trống của folder (chọn Git Clone để mở ra 1 cửa sổ), hãy copy url trên github đó vào phần URL và hãy chắc chắn phần directory đứng đúng thư mục mà bạn muốn lưu và chọn OK
 + Sau khi đã clone được về giờ chúng ta có thể mở dự án bằng unity bằng cách thêm project vào từ thư mục mình đã clone dự án
