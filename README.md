@@ -6,12 +6,12 @@ Learn to make 2d game from flappy bird game
 -- | - | -
 
 **Set up**
-1. Download and install Git, Tortoise Git using the latest version and set up under default instruction.
+1. Download and install Git, Tortoise Git using the latest version and set up under the default instruction.
 2. Download and install Unity with its plug-in
    1. Unity Editor (using default setup)
    2. Unity Archive (using default setup)
    3. Modules [Dev Tools] : Microsoft Visual Studio Community (which was integrated inside Unity Archive)
-> When it's done, Visual Studio will open a popup window. We will need to find the **Gaming** session, and choose the **Game Developer with Unity** (we will uncheck **Unity Hub** in the optional session as it was set up before along with the process), and continue the process
+> When it's done, Visual Studio will open a popup window. We will need to find the "_**Gaming**_" session, and choose the "_**Game Developer with Unity**_" (we will uncheck **Unity Hub** in the optional session as it was set up before along with the process), and continue the process
 > > Visual Studio will ask us to sign up after the process. We just ignore as it's not necessary.
 3. Clone the source code from: https://github.com/thanhson2078/learn-2d-game
 4. After cloning the project, open Unity Hub and add the project you've cloned from Github before
