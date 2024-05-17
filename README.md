@@ -17,4 +17,4 @@ Learn to make 2d game from flappy bird game
 4. After cloning the project, open Unity Hub and add the project you've cloned from Github before
 ![](https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.15752-9/440943812_1244931143149747_8913728558467002741_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEsnoifiJ-jgXRHcGwHRn-m1OXjckhUc_jU5eNySFRz-GxCzyJURbbY50n6Oid7Qn_JAcK6EUUZ6Jx7ibCJsU6p&_nc_ohc=jk6hzFKsp8oQ7kNvgEDnvpd&_nc_ht=scontent.fsgn5-5.fna&oh=03_Q7cD1QGFaPzvt22TMLsptgjDVgEFxr2UNMBf1F4V2lx30U7fMg&oe=666BE753)
 ![](https://scontent.fsgn5-9.fna.fbcdn.net/v/t1.15752-9/440840534_957509792778463_8652348353261031171_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGFjYpDaSjq5Xk-WbEwdDbYzAEjgOLJMN_MASOA4skw37OXZoRuVp66N2jxaSclNu4U3J6aA0-DufuiH_hw5PG6&_nc_ohc=-neF_gcGaCQQ7kNvgFku4nJ&_nc_ht=scontent.fsgn5-9.fna&oh=03_Q7cD1QH8mQ1gPbfGgckJfaIOSrwvzgc2t2W46FjtfCzqMTWH2g&oe=666C1D78)
-> That it, then enjoy your time. Thank you for your support!
+> That's it, enjoy. Thank you for your support!
